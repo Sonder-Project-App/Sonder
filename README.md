@@ -4,7 +4,9 @@ ___
 
 ### 🚀 Problem Statement
 Human beings are social creatures. We need the companionship of others to thrive in life, and the strength of our connections has a massive impact on our mental health and happiness. Being socially connected to others can ease stress, anxiety, and depression, boost self-worth, provide comfort and joy, prevent loneliness, and even add years to your life. On the flip side, lacking strong social connections can pose a serious risk to your mental and emotional health.
+
 In today’s world, many of us rely on social media platforms such as Facebook, Twitter, Snapchat, YouTube, and Instagram to find and connect with each other. Ironically for technologies that are designed to bring people closer together, spending too much time engaging with social media can actually make you feel more lonely and isolated—and exacerbate mental health problems such as anxiety and depression. Many people don’t share their full selves on social media, just an artificial curation of their most impressive selves, leading to comparison, envy, and a sense of inferiority. Further, many feel trapped and afraid to share their struggles and concerns, in an effort to avoid being judged. 
+
 The solution is Sonder, an emotional social media that is designed to be a safe space for people to be vulnerable through anonymous sharing. With Sonder, users can elect to post their feelings anonymously, but when a friend reacts to one of your posts, Sonder tells you who is showing you love. Then if you feel comfortable, you can open up and let that friend know it was you all along. Users can also make their posts public and have the opportunity to build a connection with other users of the platform. Sonder tracks all your posts in an emotional journal, so you can see how your feelings change over time and remember important moments, ultimately encouraging users to take more accountability for how they feel. And when we share our feelings, the world feels a whole lot friendlier.
 ___
 
@@ -38,12 +40,13 @@ ___
 
 ### 🤝 Team and Responsibilities (if applicable): 
 **Casterly:** Product Manager
+
 **Ashley:** Scrum Master, developer
 ___
 
 ### 📓 References and Citations: 
-https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm#:~:text=Since%20it's%20a%20relatively%20new,harm%2C%20and%20even%20suicidal%20thoughts.
-https://apps.apple.com/us/app/how-we-feel/id1562706384
-https://apps.apple.com/us/app/empath/id1122581674
-https://www.empathapp.com/
-https://sahha.ai/
+- https://www.helpguide.org/articles/mental-health/social-media-and-mental-health.htm#:~:text=Since%20it's%20a%20relatively%20new,harm%2C%20and%20even%20suicidal%20thoughts.
+- https://apps.apple.com/us/app/how-we-feel/id1562706384
+- https://apps.apple.com/us/app/empath/id1122581674
+- https://www.empathapp.com/
+- https://sahha.ai/
